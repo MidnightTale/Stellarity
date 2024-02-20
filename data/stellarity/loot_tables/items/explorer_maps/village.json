@@ -20,7 +20,7 @@
 							"name": {
 								"translate": "stellarity.explorer_map.end_village",
 								"fallback": "End Village Explorer Map",
-								"color": "light_purple",
+								"color": "pink",
 								"italic": false
 							}
 						},

@@ -20,7 +20,7 @@
 							"name": {
 								"translate": "stellarity.explorer_map.end_city",
 								"fallback": "End City Explorer Map",
-								"color": "light_purple",
+								"color": "pink",
 								"italic": false
 							}
 						},

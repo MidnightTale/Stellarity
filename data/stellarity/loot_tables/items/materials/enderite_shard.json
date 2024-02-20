@@ -13,7 +13,7 @@
 							"name": {
 								"translate": "stellarity.items.materials.enderite_shard",
 								"fallback": "Enderite Shard",
-								"color": "light_purple",
+								"color": "pink",
 								"italic": false
 							}
 						},

@@ -1,5 +1,5 @@
 {
-	"feature": "far_end:amethyst/vegetation/patch_grass",
+	"feature": "far_end:amethyst/vegetation/patch_short_grass",
 	"placement": [
 		{
 			"type": "count_on_every_layer",

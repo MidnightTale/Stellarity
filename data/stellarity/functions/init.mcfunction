@@ -203,7 +203,7 @@ team add stellarity.phantom_glow
 team modify stellarity.phantom_glow color green
 
 team add stellarity.eol.night_glow
-team modify stellarity.eol.night_glow color light_purple
+team modify stellarity.eol.night_glow color pink
 
 team add stellarity.eol.day_glow
 team modify stellarity.eol.day_glow color yellow

@@ -7,7 +7,7 @@
 		"title": {
 			"translate": "stellarity.advancements.summon_empress",
 			"fallback": "The Pristine Queen",
-			"color": "light_purple"
+			"color": "pink"
 		},
 		"description": {
 			"translate": "stellarity.advancements.summon_empress.description",
